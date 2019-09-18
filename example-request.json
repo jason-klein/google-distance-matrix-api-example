@@ -1,0 +1,23 @@
+{
+   "destination_addresses":[
+      "405 N Jefferson Ave, Springfield, MO 65806, USA" ],
+   "origin_addresses":[
+      "2500 E Kearney St, Springfield, MO 65803, USA" ],
+   "rows":[
+      {
+         "elements":[
+            {
+               "distance":{
+                  "text":"4.3 mi",
+                  "value":6847
+               },
+               "duration":{
+                  "text":"12 mins",
+                  "value":748
+               },
+               "status":"OK"
+            }
+         ]
+      } ],
+   "status":"OK"
+}

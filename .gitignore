@@ -1,0 +1,18 @@
+# OS Files
+.DS_Store
+
+# IDE Files
+.idea
+
+# Cache Files
+__pycache__/
+cache/
+venv/
+
+# Google API Key
+key.txt
+
+# Data Files
+distance.csv
+events.dat
+members.dat
